@@ -1,2 +1,1 @@
-print("this is test file")
-print("hello, world!")
+this is test file
